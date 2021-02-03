@@ -114,6 +114,33 @@ nav {
     animation: drop 1.5s ease;
 }
 
+.specs-info {
+    width: 80%;
+    margin: auto;
+    padding: 120px 0px 120px 0px;
+    color: #585772;
+    text-align: center;   
+}
+
+.specs-info .heading {
+    font-size: 30px;
+}
+
+.specs {
+    display: flex;
+    justify-content: center;
+}
+
+.spec {
+    
+    padding: 20px 20px 20px 20px;
+}
+
+.spec h4 {
+    padding: 10px;
+    font-size: 22px;
+}
+
 .big-circle {
     position: absolute;
     top: 0px;
